@@ -1,0 +1,1 @@
+# __init__ dosyaları bulunduğu klasörün bir paket olduğunu belirtir
